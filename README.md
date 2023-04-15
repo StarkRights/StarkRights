@@ -21,7 +21,7 @@ Some random things about me:
     - ... i'm salty
 
 # Projects
-At the moment, most of my time is spent on academics and life,:tm: but I try to keep up when I can. 
+At the moment, most of my time is spent on academics and life,:tm: but I try to keep up with what I can. 
 ## Stuff that gets worked on
   - NonfungibleBot - a silly djs bot based on the craptacularly silly concept of "owning" your friends dumb discord messages- AND voice clips!
 ## Stuff that like. Totally gets worked on.
