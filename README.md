@@ -29,3 +29,7 @@ At the moment, most of my time is spent on academics and life,:tm: but I try to 
   - PFIYA     - a minecraft bukkit plugin that turns parrots into immersive (no commands!) carrier pidgeons to ferry items between players.
   - DiaBotes  - a discord bot that hooks into & displays realtime CGM data from NightScout (official Dexcom apis have data delay. :sadge:)
 <a rel="me" href="https://hachyderm.io/@starkrights"></a>
+<!--
+omg.lol proof:
+proven.lol/42d65b
+-->
