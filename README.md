@@ -19,7 +19,7 @@ Some random things about me:
 9. wishes apple would burn in a fire
 10. owns an iphone & ipad (but ooooh no that's not enough money sir! no no no you committed the sin of not buying another entire computer in a walled ecosystem that doesnt have compat for things you like/need, so you're not *allowed* to develop for the $2000+ worth of devices you own. *\*pthu\**)
     - ... i'm salty
-    - Edit: i bought a used macbook. i have become cringe, x-er of code. kill me.
+    - Edit: i have become cringe; X-er of Code... i bought a used macbook. kill me.
 
 # Projects
 At the moment, most of my time is spent on academics and life,:tm: but I try to keep up with what I can. 
