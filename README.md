@@ -15,7 +15,7 @@ Some random things about me:
 7. doesn't have a functioning pancreas
 7. hates SublimeText
     - (Zed[?](https://zed.dev)) :eyes:
-8. [Relevant](https://xkcd.com/1205/) [xkcd](https://xkcd.com/1445/)
+8. [relevant](https://xkcd.com/1205/) [xkcd](https://xkcd.com/1445/)
 9. wishes apple would burn in a fire
 10. owns an iphone & ipad (but ooooh no that's not enough money sir! no no no you committed the sin of not buying another entire computer in a walled ecosystem that doesnt have compat for things you like/need, so you're not *allowed* to develop for the $2000+ worth of devices you own. *\*pthu\**)
     - ... i'm salty
