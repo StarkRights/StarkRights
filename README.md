@@ -20,7 +20,8 @@ Some random things about me:
 10. owns an iphone & ipad (but ooooh no that's not enough money sir! no no no you committed the sin of not buying another entire computer in a walled ecosystem that doesnt have compat for tools/systems you already use/need, so you're not *allowed* to develop for the $2000+ worth of devices you own. *\*pthu\**)
     - ... i'm salty
     - Edit: i have become cringe; X-er of Code... i bought a used macbook. kill me.
-    - Edit: somehow i became even fucking cringer- the used macbook was just too painfully slow so i bought a 2020 apple silicon mbp... im the problem
+    - Edit: somehow i became even cringer- the used macbook was just too painfully slow so i bought a 2020 apple silicon mbp... i'm the problem
+11. [140 wpm](https://monkeytype.com/profile/starkrights). Cringe flex but like. How could I not put it here?
 
 # Projects
 At the moment, most of my time is spent on academics and life,:tm: but I try to keep up with what I can. 
